@@ -4,14 +4,6 @@ A data analytics project investigating borrower credit behaviour and identifying
 
 This project combines **data analysis, statistical modelling, and risk segmentation** to quantify default risk and support data-driven credit decision-making.
 
----
-
-## 🔗 Interactive Dashboard (Tableau Public)
-
-Explore the interactive version here:  
-👉 https://public.tableau.com/views/ConsumerCreditRiskPortfolioAnalysis/Dashboard1
-
----
 
 ## 📂 Dataset
 
