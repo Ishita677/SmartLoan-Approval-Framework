@@ -187,4 +187,4 @@ This project demonstrates an end-to-end credit risk analytics workflow:
 ---
 
 ## 👨‍💻 Author
-**Ishan Kukreti**
+**Ishita Kukreti**
