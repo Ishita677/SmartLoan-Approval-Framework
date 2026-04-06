@@ -1,4 +1,4 @@
-# 📊 Consumer Credit Risk Portfolio Analysis
+# 📊 SmartLoan Approval Framework
 
 A data analytics project investigating borrower credit behaviour and identifying key drivers of financial distress using a large-scale credit dataset.
 
